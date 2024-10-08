@@ -1,0 +1,10 @@
+.carrito{
+    color: white;
+    width: 2rem;
+    height: 2rem;
+    display: flex;
+}
+
+.contadorCarrito{
+    color: white;
+}
